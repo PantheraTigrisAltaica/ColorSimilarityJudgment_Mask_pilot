@@ -6,4 +6,5 @@
 #
 # Make sure these two lines at the beginning of the .js file is invalid
 //const { abs, sin, cos, PI: pi, sqrt } = Math;
+#
 //const { round } = util;
